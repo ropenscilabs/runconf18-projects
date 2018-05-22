@@ -12,6 +12,8 @@
 
 ### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
 
+### `r emo::ji("press")` [rOpenInterviews - .rprofile and .renviron interview blog series](https://github.com/ropenscilabs/rOpenInterviews)
+
 ---
 
 If there are any projects that you know are missing please
