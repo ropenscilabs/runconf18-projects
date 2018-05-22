@@ -28,7 +28,7 @@
 
 ### `r emo::ji("key")` [keybase - Tools to Work with the Keybase API](https://github.com/ropenscilabs/keybase)
 
-### `r emo::ji("construction_worker_woman")` [jobstatus - Send Job Information Between Functions and Processes](https://github.com/ropenscilabs/jobstatus)
+### `r emo::ji("signal_strength")` [jobstatus - Send Job Information Between Functions and Processes](https://github.com/ropenscilabs/jobstatus)
 
 ### `r emo::ji("secret")` [ropsec - Operations security for R developers](https://github.com/ropenscilabs/ropsec)
 
@@ -36,6 +36,7 @@
 
 ### `r emo::ji("construction_worker_woman")` [greta - simple and scalable statistical modelling in R](https://github.com/ropenscilabs/greta)
 
+### `r emo::ji("broom")` [roomba - tidy your nested hairballs](https://github.com/ropenscilabs/roomba)
 
 ---
 
