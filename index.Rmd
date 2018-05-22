@@ -1,0 +1,20 @@
+# R OpenSci Unconference 2018 Projects
+
+### `r emo::ji("woman_teacher")` [rOpenSciEd - A Community for those who Educate with R](https://github.com/ropenscilabs/rOpenSciEd)
+
+### `r emo::ji("memo")` [pkgreviewr - R package to facilitate rOpenSci package reviews](https://github.com/ropenscilabs/pkgreviewr)
+
+### `r emo::ji("eye")` [OpenCV - Open Source Computer Vision Library](https://github.com/ropenscilabs/opencv)
+
+### `r emo::ji("old_key")` [middlechild - R interface to MITM](https://github.com/ropenscilabs/middlechild)
+
+### `r emo::ji("baby")` [mchtoolbox - A toolbox for maternal child health data](https://github.com/ropenscilabs/mchtoolbox)
+
+### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
+
+---
+
+If there are any projects that you know are missing please
+[fork](https://github.com/ropenscilabs/runconf18-projects) 
+this document on GitHub, make changes, and then send a pull
+request.
