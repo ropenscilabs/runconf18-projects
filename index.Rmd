@@ -34,6 +34,8 @@
 
 ### `r emo::ji("smiling_imp")` [testevil - Package for testing for potentially malicious or unsafe coding practices](https://github.com/ropenscilabs/testevil)
 
+### `r emo::ji("tape")` [httr in webmockr](https://github.com/ropensci/webmockr/tree/adapter-httr#httr-integration)
+
 ### `r emo::ji("construction_worker_woman")` [greta - simple and scalable statistical modelling in R](https://github.com/ropenscilabs/greta)
 
 ### `r emo::ji("broom")` [roomba - tidy your nested hairballs](https://github.com/ropenscilabs/roomba)
