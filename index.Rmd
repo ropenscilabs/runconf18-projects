@@ -18,6 +18,8 @@
 
 ### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
 
+### `r emo::ji("railway_track")` [trackmd - RStudio addin for tracking changes in Markdown format](https://github.com/ropenscilabs/trackmd)
+
 ### `r emo::ji("book")`  [QcodeR - Lightweight package to do qualitative coding](https://github.com/ropenscilabs/qcoder)
 
 ### `r emo::ji("map")` [umapr - wrapper for `umap` dimensionality reduction algorithm](https://github.com/ropenscilabs/umapr)
