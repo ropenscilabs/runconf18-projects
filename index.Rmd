@@ -22,6 +22,8 @@
 
 ### `r emo::ji("press")` [rOpenInterviews - .rprofile and .renviron interview blog series](https://github.com/ropenscilabs/rOpenInterviews)
 
+### `r emo::ji("loop")` [httr in webmockr](https://github.com/ropensci/webmockr/tree/adapter-httr#httr-integration)
+
 ---
 
 If there are any projects that you know are missing please
