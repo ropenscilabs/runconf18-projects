@@ -12,13 +12,14 @@
 
 ### `r emo::ji("baby")` [mchtoolbox - A toolbox for maternal child health data](https://github.com/ropenscilabs/mchtoolbox)
 
-### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files]
+### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
 
 ### `r emo::ji("book")`  [QcodeR - Lightweight package to do qualitative coding](https://github.com/ropenscilabs/qcoder)
 
-(https://github.com/ropenscilabs/dataspice)
+### `r emo::ji("map")` [umapr - wrapper for `umap` dimensionality reduction algorithm](https://github.com/ropenscilabs/umapr)
 
-### `r emo::ji("map")` [umapr - wrapper for `umap` dimensionality reduction algorithm]
+### `r emo::ji("press")` [rOpenInterviews - .rprofile and .renviron interview blog series](https://github.com/ropenscilabs/rOpenInterviews)
+
 ---
 
 If there are any projects that you know are missing please
