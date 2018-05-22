@@ -2,7 +2,7 @@
 
 ### `r emo::ji("woman_teacher")` [rOpenSciEd - A Community for those who Educate with R](https://github.com/ropenscilabs/rOpenSciEd)
 
-### `r emo::ji("memo")` [pkgreviewr - R package to facilitate rOpenSci package reviews](https://github.com/ropenscilabs/pkgreviewr)
+### `r emo::ji("memo")` [pkgreviewr - R package to facilitate rOpenSci package reviews](https://github.com/ropenscilabs/pkgreviewr/tree/pkgtests#ropensci-2018-pkgtests-branch)
 
 ### `r emo::ji("eye")` [OpenCV - Open Source Computer Vision Library](https://github.com/ropenscilabs/opencv)
 
