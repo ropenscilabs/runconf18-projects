@@ -10,6 +10,8 @@
 
 ### `r emo::ji("shield")` [defender - check code for dangerous calls](https://github.com/ropenscilabs/defender)
 
+### `r emo::ji("secret")` [ropsec - Personal Workstation Safety Checks and Utilities](https://github.com/ropenscilabs/ropsec)
+
 ### `r emo::ji("baby")` [mchtoolbox - A toolbox for maternal child health data](https://github.com/ropenscilabs/mchtoolbox)
 
 ### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
