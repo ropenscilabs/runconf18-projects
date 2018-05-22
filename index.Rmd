@@ -36,7 +36,7 @@
 
 ### `r emo::ji("tape")` [httr in webmockr](https://github.com/ropensci/webmockr/tree/adapter-httr#httr-integration)
 
-### `r emo::ji("construction_worker_woman")` [greta - simple and scalable statistical modelling in R](https://github.com/ropenscilabs/greta)
+### `r emo::ji("construction_worker_woman")` [greta - simple and scalable statistical modelling in R](https://github.com/ropenscilabs/greta/tree/unconf)
 
 ### `r emo::ji("broom")` [roomba - tidy your nested hairballs](https://github.com/ropenscilabs/roomba)
 
