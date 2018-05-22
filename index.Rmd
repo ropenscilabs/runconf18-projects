@@ -34,6 +34,7 @@
 
 ### `r emo::ji("smiling_imp")` [testevil - Package for testing for potentially malicious or unsafe coding practices](https://github.com/ropenscilabs/testevil)
 
+### `r emo::ji("broom")` [roomba - tidy your nested hairballs](https://github.com/ropenscilabs/roomba)
 ---
 
 If there are any projects that you know are missing please
