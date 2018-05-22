@@ -12,6 +12,7 @@
 
 ### `r emo::ji("hot_pepper")` [dataspice - create basic, lightweight and concise metadata files](https://github.com/ropenscilabs/dataspice)
 
+### `r emo::ji("map")` [umapr - wrapper for `umap` dimensionality reduction algorithm]
 ---
 
 If there are any projects that you know are missing please
