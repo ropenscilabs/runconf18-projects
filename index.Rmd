@@ -32,6 +32,8 @@
 
 ### `r emo::ji("smiling_imp")` [testevil - Package for testing for potentially malicious or unsafe coding practices](https://github.com/ropenscilabs/testevil)
 
+### `r emo::ji("tape")` [httr in webmockr](https://github.com/ropensci/webmockr/tree/adapter-httr#httr-integration)
+
 ---
 
 If there are any projects that you know are missing please
