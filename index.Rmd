@@ -1,5 +1,7 @@
 # R OpenSci Unconference 2018 Projects
 
+### `r emo::ji("robot")` [proxy-bias-vignette - Ethical Machine Learning](https://github.com/ropenscilabs/proxy-bias-vignette)
+
 ### `r emo::ji("woman_teacher")` [rOpenSciEd - A Community for those who Educate with R](https://github.com/ropenscilabs/rOpenSciEd)
 
 ### `r emo::ji("memo")` [pkgreviewr - Automated reports for rOpenSci package reviews](https://github.com/ropenscilabs/pkgreviewr/tree/pkgtests#ropensci-2018-pkgtests-branch)
@@ -21,6 +23,14 @@
 ### `r emo::ji("map")` [umapr - wrapper for `umap` dimensionality reduction algorithm](https://github.com/ropenscilabs/umapr)
 
 ### `r emo::ji("press")` [rOpenInterviews - .rprofile and .renviron interview blog series](https://github.com/ropenscilabs/rOpenInterviews)
+
+### `r emo::ji("key")` [keybase - Tools to Work with the Keybase API](https://github.com/ropenscilabs/keybase)
+
+### `r emo::ji("construction_worker_woman")` [jobstatus - Send Job Information Between Functions and Processes](https://github.com/ropenscilabs/jobstatus)
+
+### `r emo::ji("secret")` [ropsec - Operations security for R developers](https://github.com/ropenscilabs/ropsec)
+
+### `r emo::ji("smiling_imp")` [testevil - Package for testing for potentially malicious or unsafe coding practices](https://github.com/ropenscilabs/testevil)
 
 ---
 
